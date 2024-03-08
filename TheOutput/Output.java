@@ -26,5 +26,14 @@ public class Output {
         //java is case sensitive language...
         //System.out.Println("OP Sharma"); //because i am write println start from the capital letter ...
         
+
+        /*rule 5: cancatenete  diffrent type  with + while printing  */
+        System.out.println(87+"Hello");
+
+        //rule 6: operator -BODMAS
+        System.out.println(7+5*4-3/3);
+        /*because computer will solve this ex- from left side to right side    */
+
+        
     }
 }
