@@ -24,7 +24,7 @@ public class Output {
         System.out.println("Hello OP Sharma");
 
         //java is case sensitive language...
-        //System.out.Println("OP Sharma");
+        //System.out.Println("OP Sharma"); //because i am write println start from the capital letter ...
         
     }
 }
