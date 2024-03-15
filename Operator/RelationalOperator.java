@@ -38,7 +38,5 @@ public class RelationalOperator {
       System.out.println(result);
       result =a!=c;
       System.out.println(result);
-
-
     }
 }
