@@ -16,7 +16,7 @@ public class SwitchCase {
                 System.out.println("case three");
         
             default:
-                System.out.println("invilid num");
+                System.out.println("invilid num !");
                 break;
         }
     }
