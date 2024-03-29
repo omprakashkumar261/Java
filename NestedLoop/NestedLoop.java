@@ -9,7 +9,7 @@ public class NestedLoop {
             for(int j=1; j<=n; j++){
                 System.out.print("*");
             }
-            System.out.print("  ");// to create the new line
+             System.out.print("  ");// to create the new line
             //to create the second star printing
             for(int j=1; j<=n; j++){
                 System.out.print("*");
