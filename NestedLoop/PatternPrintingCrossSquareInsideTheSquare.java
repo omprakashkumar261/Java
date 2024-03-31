@@ -17,9 +17,9 @@ public class PatternPrintingCrossSquareInsideTheSquare {
             {
                 System.out.print(" ");
             }
-        }
+        }//end inner loop
         System.out.println();
-    }
+    }//end outer loop 
         
     }
 }
