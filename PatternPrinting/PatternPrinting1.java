@@ -16,8 +16,8 @@ public class PatternPrinting1 {
                     System.out.print(" ");
                 }
             }//end the inner loop
-            //to create the new line 
-            System.out.println();
+            
+            System.out.println(); //to create the new line
         }// end the outer line 
 
     }
