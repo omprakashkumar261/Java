@@ -1,5 +1,7 @@
 package Method;
 
+import java.util.Scanner;
+
 public class CreateMethod {
     public static void main(String [] args){
         // All about the method in java  in detailes....using the base of concept as your choice ...
@@ -28,8 +30,16 @@ public class CreateMethod {
         int a=20;
         int b=15;
         int res=a-b;
+        mul();
         System.out.println(res);
     }
-
-
+    public static void mul(){
+        Scanner sc=new Scanner(System.in);
+        System.out.print("enter the n1= ");
+        int n1=sc.nextInt();
+        System.out.print("enter the n2= ");
+        int n2=sc.nextInt();
+        int res=n1*n2;
+        System.out.println(res);
+    }
 }
