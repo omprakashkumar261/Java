@@ -2,9 +2,9 @@ package Method2;
 
 public class Method_Creation2 {
     // create the method to get the result of addition by parametterized way 
-    public static void Addition(int a, int b)
+    public static void Addition(int x, int y)
     {
-        int res=a+b;
+        int res=x+y;
         System.out.println(res);
     }
     public static void main(String [] args){
