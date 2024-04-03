@@ -33,6 +33,7 @@ public class CreateMethod {
         mul();
         System.out.println(res);
     }
+    //create the another method to get the multiplication result 
     public static void mul(){
         Scanner sc=new Scanner(System.in);
         System.out.print("enter the n1= ");
