@@ -12,10 +12,8 @@ public class Method_Creation2 {
         int a=12;
         int b=34;
         Addition(10, 15);
-
     }
         /*the output is =OP Sharma
          * 25
-        */
-        
+        */    
 }
